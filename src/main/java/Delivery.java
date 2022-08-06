@@ -1,5 +1,3 @@
-import interfaces.Order;
-
 public class Delivery implements Order {
 
     protected String street;
